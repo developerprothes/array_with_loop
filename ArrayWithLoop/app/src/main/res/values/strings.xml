@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Array With Loop</string>
+
+
+    <string-array name="my_array1">
+        <item>Prothes Barai</item>
+        <item>Software Developer</item>
+        <item>Web Developer</item>
+        <item>Wordpress Expart</item>
+        <item>SEO Expart</item>
+        <item>Java Developer</item>
+        <item>Database Expart</item>
+        <item>Simple Writter</item>
+    </string-array>
+
+</resources>
